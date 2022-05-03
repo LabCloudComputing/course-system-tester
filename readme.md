@@ -293,6 +293,7 @@ It's a bit long, so please read it carefully.
 ##### basic & advanced
 
 | key | value type | description |
+| --- | --- | --- |
 | performance | Array | Specific test items for perfermance |
 
 - `perfromance[i]`
