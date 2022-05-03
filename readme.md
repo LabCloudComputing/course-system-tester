@@ -1,4 +1,4 @@
-# Course system Tester
+# Course System Tester
 
 This is a CLI test program for [HNU Cloud Computing Lab 4](https://github.com/1989chenguo/CloudComputingLabs/tree/master/Lab4).
 
