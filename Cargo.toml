@@ -1,5 +1,5 @@
 [package]
-name = "course-tester"
+name = "course-system-tester"
 authors = ["IceyBlackTea <IceyBlackTea@outlook.com>"]
 version = "0.5.0"
 description = "A CLI test program for HNU Cloud Computing Lab 4."
